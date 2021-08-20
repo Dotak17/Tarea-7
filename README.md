@@ -13,6 +13,15 @@
 
 - MARCO TEORICO
 
+Marco Teorico CAPITULO 13
+
+![Marcoteorico 1](https://user-images.githubusercontent.com/84397282/130182016-2d698fe7-85c5-4ee2-b243-6b96f291046d.jpg)
+![Marcoteorico 2](https://user-images.githubusercontent.com/84397282/130182019-2151bd68-e46a-4fe0-b607-bdc61919c225.jpg)
+![Marcoteorico 3](https://user-images.githubusercontent.com/84397282/130182020-bf618227-2410-459c-8400-bd0c05387b38.jpg)
+![Marcoteorico 4](https://user-images.githubusercontent.com/84397282/130182022-196d92a5-cda3-4963-b092-f30b83f8273f.jpg)
+![Marcoteorico 5](https://user-images.githubusercontent.com/84397282/130182023-a256056e-ece8-4d05-8964-d4a949128056.jpg)
+![Marcoteorico 6](https://user-images.githubusercontent.com/84397282/130182025-f5308b49-3e9a-44ab-9583-9b8f7f77c659.jpg)
+![Marcoteorico 7](https://user-images.githubusercontent.com/84397282/130182026-750fe72f-8ee8-4067-bc7f-81f998c90b28.jpg)
 
 
 - RESOLUCION DE PROBLEMAS
