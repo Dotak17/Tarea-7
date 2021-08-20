@@ -26,6 +26,12 @@ Marco Teorico CAPITULO 13
 
 - RESOLUCION DE PROBLEMAS
 
+![13 ejercicio 1](https://user-images.githubusercontent.com/84397282/130182209-da6005dc-1053-4dfa-a143-6d361af032a6.jpg)
+![13 ejercicio 2](https://user-images.githubusercontent.com/84397282/130182210-bd833cf7-9952-4143-8bdc-e2aa8bd1248f.jpg)
+![13 ejercicio 3](https://user-images.githubusercontent.com/84397282/130182212-2e953702-8543-4c68-afab-9bbfb24d8667.jpg)
+![13 ejercicio 4](https://user-images.githubusercontent.com/84397282/130182216-421f9b64-3348-4fe8-97a3-d102c96d52e0.jpg)
+![13 ejercicio 5](https://user-images.githubusercontent.com/84397282/130182218-4b03e0d1-b32a-4ceb-8aaf-5b281854f11c.jpg)
+
 
 - VIDEO
 
