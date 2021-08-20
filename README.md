@@ -10,6 +10,11 @@
 
 -Identificar las distintas ecuaciones que describen como se llega a comportar un inductor cuando esta en un circuito electronico.
 
+
+- MARCO TEORICO
+
+
+
 - RESOLUCION DE PROBLEMAS
 
 
@@ -17,8 +22,8 @@
 
 
 - CONCLUSIONES
-
-
+ 
+ -Los campos magneticos junto con la inductancia puede llegar a ser un efecto no deseado en los circuitos electricos, sim embargo hemos estudiado los aspectos positivos de esotos efectos fisicos que produce la corriente, como lo pueden ser sus aplicaciones en audio y en la tranferencia de potencia.
 
 - BIBLIOGRAFIA
 
