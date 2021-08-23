@@ -31,6 +31,10 @@ Marco Teorico CAPITULO 13
 
 Marco teorico CAPITULO 14 
 
+![](https://user-images.githubusercontent.com/84998005/130508762-3dac3b2e-a066-426d-8121-baee1fcf3965.png)
+
+![](https://user-images.githubusercontent.com/84998005/130508770-99c1f5bf-f61c-4923-85ae-17e9634fe0b8.png)
+
 
 - RESOLUCION DE PROBLEMAS
 
