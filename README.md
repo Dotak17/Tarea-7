@@ -36,13 +36,26 @@ Marco teorico CAPITULO 14
 ![](https://user-images.githubusercontent.com/84998005/130508770-99c1f5bf-f61c-4923-85ae-17e9634fe0b8.png)
 
 
-- RESOLUCION DE PROBLEMAS
+- RESOLUCION DE PROBLEMAS CAPITULO 13 
+
+![](https://user-images.githubusercontent.com/84998005/130517298-8f731a63-7671-4360-8fea-4791f2cd7833.png)
+
+![](https://user-images.githubusercontent.com/84998005/130517287-a0b2a1f4-2938-4183-b089-a3cdf0ca53ce.png)
+
+![](https://user-images.githubusercontent.com/84998005/130517282-f02f5a85-dc4e-4a9c-8962-059008ccaa05.png)
+
+![](https://user-images.githubusercontent.com/84998005/130517301-cc4d7dac-2fdd-49f7-9ea2-001373fc66f2.png)
+
+![](https://user-images.githubusercontent.com/84998005/130517299-56d8c43f-0dd6-4656-ae6e-ef5505ff5cee.png)
 
 ![13 ejercicio 1](https://user-images.githubusercontent.com/84397282/130182209-da6005dc-1053-4dfa-a143-6d361af032a6.jpg)
 ![13 ejercicio 2](https://user-images.githubusercontent.com/84397282/130182210-bd833cf7-9952-4143-8bdc-e2aa8bd1248f.jpg)
 ![13 ejercicio 3](https://user-images.githubusercontent.com/84397282/130182212-2e953702-8543-4c68-afab-9bbfb24d8667.jpg)
 ![13 ejercicio 4](https://user-images.githubusercontent.com/84397282/130182216-421f9b64-3348-4fe8-97a3-d102c96d52e0.jpg)
 ![13 ejercicio 5](https://user-images.githubusercontent.com/84397282/130182218-4b03e0d1-b32a-4ceb-8aaf-5b281854f11c.jpg)
+
+- RESOLUCION DE PROBLEMAS CAPITULO 14
+
 
 
 - VIDEO
