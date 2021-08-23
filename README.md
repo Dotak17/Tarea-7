@@ -4,11 +4,17 @@
 
 -Revisar el concepto sobre inductancia e inductores, la generacionde campos magneticos y como esto puede afectara en la operacion de un circuito mediante calculos matematicos, y anlisis de diagramas para la aplicacion de sus porpiedades en distintos problemas de la electronica.
 
+-Reconocer como resultan los transitorios en circuitos inductivos,  que sucede cuando la corriente del inductor se interrumpe y las ecuaciones de voltaje y corrientes de transitorios desenergizantes. 
+
 - OBJETIVOS ESPECIFICOS
 
 -Comprender los conceptos claves que se trataran en este capitulo acerca de la inductancia y los inductores
 
 -Identificar las distintas ecuaciones que describen como se llega a comportar un inductor cuando esta en un circuito electronico.
+
+-Calcular la corriente y el voltaje durante el aumento y disminución de la corriente en circuitos inductivos. 
+
+-Interpretar y aplicar los conceptos de  continuidad de corriente en una inductancia a los ejercicios planteados. 
 
 
 - MARCO TEORICO
@@ -22,6 +28,8 @@ Marco Teorico CAPITULO 13
 ![Marcoteorico 5](https://user-images.githubusercontent.com/84397282/130182023-a256056e-ece8-4d05-8964-d4a949128056.jpg)
 ![Marcoteorico 6](https://user-images.githubusercontent.com/84397282/130182025-f5308b49-3e9a-44ab-9583-9b8f7f77c659.jpg)
 ![Marcoteorico 7](https://user-images.githubusercontent.com/84397282/130182026-750fe72f-8ee8-4067-bc7f-81f998c90b28.jpg)
+
+Marco teorico CAPITULO 14 
 
 
 - RESOLUCION DE PROBLEMAS
