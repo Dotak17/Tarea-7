@@ -85,8 +85,8 @@ Marco teorico CAPITULO 14
  
  -Los campos magneticos junto con la inductancia puede llegar a ser un efecto no deseado en los circuitos electricos, sim embargo hemos estudiado los aspectos positivos de esotos efectos fisicos que produce la corriente, como lo pueden ser sus aplicaciones en audio y en la tranferencia de potencia.
 
-
- Un colapso repentino del campo magnético cuando el interruptor se abre puede causar un gran voltaje inducido en la bobina que puede formar arcos muy grandes. Al igual que en inductancias de tamaño no moderado puede crear suficiente voltaje para poder dañar equipos electrnicos sin proteccion .
+-  Se pudo estudia que si un colapso  repentino del campo magnético cuando el interruptor se abre puede causar un gran voltaje inducido en la bobina y se ha visto que puede formar arcos muy grandes. Al igual en inductancias pueden crear suficiente voltaje para dañar sistemas de circuitos eléctricos 
+ 
  
 - BIBLIOGRAFIA
 
