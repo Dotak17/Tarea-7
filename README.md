@@ -37,7 +37,14 @@ Marco teorico CAPITULO 14
 
 ![](https://user-images.githubusercontent.com/84998013/130535674-95b8d1e3-c1a8-4d61-8986-34702b276571.png)
 
-- RESOLUCION DE PROBLEMAS CAPITULO 13 
+- RESOLUCION DE PROBLEMAS CAPITULO 13
+
+![](https://user-images.githubusercontent.com/84998013/130538093-9030bbd7-c54b-4ed3-a70d-7ae0710f14a5.png)
+
+![](https://user-images.githubusercontent.com/84998013/130538229-a3e315e5-e5fd-47b5-80b6-41816b15ab05.png)
+
+![](https://user-images.githubusercontent.com/84998013/130538302-0e7ad3c0-eecc-42e9-8531-970b2251c241.png)
+
 
 ![](https://user-images.githubusercontent.com/84998005/130517298-8f731a63-7671-4360-8fea-4791f2cd7833.png)
 
