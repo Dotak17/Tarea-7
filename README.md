@@ -35,6 +35,7 @@ Marco teorico CAPITULO 14
 
 ![](https://user-images.githubusercontent.com/84998005/130508770-99c1f5bf-f61c-4923-85ae-17e9634fe0b8.png)
 
+![](https://user-images.githubusercontent.com/84998013/130535674-95b8d1e3-c1a8-4d61-8986-34702b276571.png)
 
 - RESOLUCION DE PROBLEMAS CAPITULO 13 
 
