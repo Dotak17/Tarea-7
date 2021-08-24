@@ -56,6 +56,11 @@ Marco teorico CAPITULO 14
 
 - RESOLUCION DE PROBLEMAS CAPITULO 14
 
+![14 ejercicio 1](https://user-images.githubusercontent.com/84397282/130535185-a3c5ef4b-5090-4eec-b676-eecaf73f69c3.jpg)
+![14 ejercicio 2](https://user-images.githubusercontent.com/84397282/130535189-3fcb1507-8452-4b79-9b4c-8ea07488cf81.jpg)
+![14 ejercicio 3](https://user-images.githubusercontent.com/84397282/130535190-8c211881-3419-4928-a5e1-9a56068eca28.jpg)
+![14 ejercicio 4](https://user-images.githubusercontent.com/84397282/130535191-3dad87d8-9780-4d4f-88ef-a4cdf304fd75.jpg)
+
 
 
 - VIDEO
