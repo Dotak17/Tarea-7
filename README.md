@@ -81,11 +81,11 @@ Marco teorico CAPITULO 14
 
 ![](https://user-images.githubusercontent.com/84998005/130540783-34fcb2e4-06ed-476e-87f6-4a6d31a7bdb6.png)
 
-.
+![](https://user-images.githubusercontent.com/84998005/130553158-33f300f0-4d11-4025-914b-ba1d6956d8e2.png)
 
 ![](https://user-images.githubusercontent.com/84998005/130540781-0fce30b0-3661-4c7d-9e93-c992947eb3e6.png)
 
-.
+![](https://user-images.githubusercontent.com/84998005/130553152-8973e240-3af7-489a-abec-2e035d4944b3.png)
 
 
 
